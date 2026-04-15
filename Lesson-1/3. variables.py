@@ -10,3 +10,6 @@ print(y)  # Output: Hello, World!
 # You can also change the value of a variable after it has been created. For example:
 x = 10
 print(x)  # Output: 10
+
+# Now, the variable x has been updated to hold the new value of 10. You can also print the variable along with a message to make it more informative:
+print("The value of x is now:", x)  # Output: The value of x is now: 10
