@@ -22,3 +22,13 @@ elif age < 65:
     print("You are an adult.")
 else:
     print("You are a senior citizen.")
+
+# Example 4: Taking user input and using conditional statements
+age = input("Enter your age: ")
+age = int(age)  # Convert the input to an integer
+if age < 18:
+    print("You are a minor.")
+elif age < 65:
+    print("You are an adult.")
+else:
+    print("You are a senior citizen.")
